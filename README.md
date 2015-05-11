@@ -1,4 +1,4 @@
 step:      
 sudo npm install        
-./run.sh **.js    //run the script      
-./translate.sh **/js //translate to ES5
+./run.sh someone.js    //**run the script**      
+./translate.sh someone.js  //**translate to ES5**
